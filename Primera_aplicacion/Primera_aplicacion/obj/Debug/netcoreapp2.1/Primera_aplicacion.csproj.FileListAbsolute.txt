@@ -1,0 +1,11 @@
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\bin\Debug\netcoreapp2.1\Primera_aplicacion.deps.json
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\bin\Debug\netcoreapp2.1\Primera_aplicacion.runtimeconfig.json
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\bin\Debug\netcoreapp2.1\Primera_aplicacion.runtimeconfig.dev.json
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\bin\Debug\netcoreapp2.1\Primera_aplicacion.dll
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\bin\Debug\netcoreapp2.1\Primera_aplicacion.pdb
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.csprojAssemblyReference.cache
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.AssemblyInfoInputs.cache
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.AssemblyInfo.cs
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.dll
+C:\Users\MR\Desktop\C#\Primera_aplicacion\Primera_aplicacion\obj\Debug\netcoreapp2.1\Primera_aplicacion.pdb
