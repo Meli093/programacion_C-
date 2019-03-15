@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Metodo suma, Configuration: Debug Any CPU ------
+1>Metodo suma -> C:\Users\MR\Desktop\C#\Metodo\Suma\Metodo suma\Metodo suma\bin\Debug\netcoreapp2.1\Metodo suma.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
