@@ -1,0 +1,11 @@
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\bin\Debug\netcoreapp2.1\constantes.deps.json
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\bin\Debug\netcoreapp2.1\constantes.runtimeconfig.json
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\bin\Debug\netcoreapp2.1\constantes.runtimeconfig.dev.json
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\bin\Debug\netcoreapp2.1\constantes.dll
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\bin\Debug\netcoreapp2.1\constantes.pdb
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.csprojAssemblyReference.cache
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.csproj.CoreCompileInputs.cache
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.AssemblyInfoInputs.cache
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.AssemblyInfo.cs
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.dll
+C:\Users\MR\Source\Repos\c#\Operadores Aritmetico\Operadores Aritmetico\obj\Debug\netcoreapp2.1\constantes.pdb
