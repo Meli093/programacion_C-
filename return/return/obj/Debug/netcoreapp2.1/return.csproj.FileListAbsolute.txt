@@ -1,0 +1,11 @@
+C:\Users\MR\Source\Repos\c#\return\return\return\bin\Debug\netcoreapp2.1\return.deps.json
+C:\Users\MR\Source\Repos\c#\return\return\return\bin\Debug\netcoreapp2.1\return.runtimeconfig.json
+C:\Users\MR\Source\Repos\c#\return\return\return\bin\Debug\netcoreapp2.1\return.runtimeconfig.dev.json
+C:\Users\MR\Source\Repos\c#\return\return\return\bin\Debug\netcoreapp2.1\return.dll
+C:\Users\MR\Source\Repos\c#\return\return\return\bin\Debug\netcoreapp2.1\return.pdb
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.csprojAssemblyReference.cache
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.csproj.CoreCompileInputs.cache
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.AssemblyInfoInputs.cache
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.AssemblyInfo.cs
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.dll
+C:\Users\MR\Source\Repos\c#\return\return\return\obj\Debug\netcoreapp2.1\return.pdb
