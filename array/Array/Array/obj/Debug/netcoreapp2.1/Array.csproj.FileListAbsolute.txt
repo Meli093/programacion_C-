@@ -1,0 +1,11 @@
+C:\Users\MR\Source\Repos\c#\array\Array\Array\bin\Debug\netcoreapp2.1\Array.deps.json
+C:\Users\MR\Source\Repos\c#\array\Array\Array\bin\Debug\netcoreapp2.1\Array.runtimeconfig.json
+C:\Users\MR\Source\Repos\c#\array\Array\Array\bin\Debug\netcoreapp2.1\Array.runtimeconfig.dev.json
+C:\Users\MR\Source\Repos\c#\array\Array\Array\bin\Debug\netcoreapp2.1\Array.dll
+C:\Users\MR\Source\Repos\c#\array\Array\Array\bin\Debug\netcoreapp2.1\Array.pdb
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.csprojAssemblyReference.cache
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.AssemblyInfoInputs.cache
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.AssemblyInfo.cs
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.dll
+C:\Users\MR\Source\Repos\c#\array\Array\Array\obj\Debug\netcoreapp2.1\Array.pdb
