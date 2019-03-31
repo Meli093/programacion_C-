@@ -1,0 +1,11 @@
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\bin\Debug\netcoreapp2.1\Excepciones.deps.json
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\bin\Debug\netcoreapp2.1\Excepciones.runtimeconfig.json
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\bin\Debug\netcoreapp2.1\Excepciones.runtimeconfig.dev.json
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\bin\Debug\netcoreapp2.1\Excepciones.dll
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\bin\Debug\netcoreapp2.1\Excepciones.pdb
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.csprojAssemblyReference.cache
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.AssemblyInfoInputs.cache
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.AssemblyInfo.cs
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.dll
+C:\Users\MR\Desktop\C#\Excepciones\Excepciones\Excepciones\obj\Debug\netcoreapp2.1\Excepciones.pdb
