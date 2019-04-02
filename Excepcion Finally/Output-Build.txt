@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Excepcion Finally, Configuration: Debug Any CPU ------
+1>Program.cs(25,29,25,30): warning CS0168: The variable 'e' is declared but never used
+1>Excepcion Finally -> C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.dll
+1>Done building project "Excepcion Finally.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

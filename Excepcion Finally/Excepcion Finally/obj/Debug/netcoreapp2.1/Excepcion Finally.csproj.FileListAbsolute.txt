@@ -1,0 +1,11 @@
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.deps.json
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.runtimeconfig.json
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.runtimeconfig.dev.json
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.dll
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\bin\Debug\netcoreapp2.1\Excepcion Finally.pdb
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.csprojAssemblyReference.cache
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.csproj.CoreCompileInputs.cache
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.AssemblyInfoInputs.cache
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.AssemblyInfo.cs
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.dll
+C:\Users\MR\Desktop\C#\Excepcion Finally\Excepcion Finally\Excepcion Finally\obj\Debug\netcoreapp2.1\Excepcion Finally.pdb
